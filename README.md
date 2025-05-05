@@ -81,3 +81,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/c54b6b95-50ef-41c2-a7e4-7ca2f5c1d8ad)
 ## Hardware experiment output waveform.
 ![image](https://github.com/user-attachments/assets/ab56c1e4-d699-4942-8b6d-56156017e3e5)
+## result
+thus the sampling  of the given input signal is done using different types of sampling technique
