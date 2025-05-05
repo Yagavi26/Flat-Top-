@@ -1,11 +1,12 @@
-Flat-Top Sampling
-Aim
+## Flat-Top Sampling
+## Aim
 Write a Python program for the Construction and Reconctruction of Flat-Top Sampling.
 
-Tools required
+## Tools required
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 
-Program
+## Program
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -75,6 +76,8 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-Output Waveform
+```
+## Output Waveform
 ![image](https://github.com/user-attachments/assets/c54b6b95-50ef-41c2-a7e4-7ca2f5c1d8ad)
-Hardware experiment output waveform.
+## Hardware experiment output waveform.
+![image](https://github.com/user-attachments/assets/ab56c1e4-d699-4942-8b6d-56156017e3e5)
